@@ -1,0 +1,37 @@
+# Data files (too large for GitHub)
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outputs (optional - remove if you want charts on GitHub)
+# outputs/
+
+# Tableau workbook backup files
+*.twbx.bak
